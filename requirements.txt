@@ -2,3 +2,6 @@ setuptools
 kagglehub
 pandas
 numpy
+torch
+opencv-python-headless
+torchvision
