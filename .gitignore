@@ -173,4 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 tensorboard_logs
+models/
 fasterrcnn.pth
