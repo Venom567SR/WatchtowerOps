@@ -174,8 +174,5 @@ cython_debug/
 .pypirc
 tensorboard_logs
 models/
-raw/
-Images/
-Labels/
 fasterrcnn.pth
 artifacts/models/fasterrcnn.pth
