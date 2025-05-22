@@ -30,20 +30,6 @@ Welcome to **WatchtowerOps**, an end-to-end MLOps project focused on custom guns
 
 ---
 
-## 🏗️ Project Architecture
-
-```mermaid
-flowchart TD
-    A[Data Acquisition\n(KaggleHub)] --> B[Notebook Prototyping\n(Google Colab)]
-    B --> C[Model Training\n(PyTorch, DVC)]
-    C --> D[Experiment Tracking\n(TensorBoard)]
-    C --> E[API Development\n(FastAPI, Uvicorn)]
-    E --> F[API Testing\n(Postman)]
-    C --> G[Deployment\n(Google Cloud)]
-```
-
----
-
 ## 🚦 How It Works
 
 1. **Dataset Download:** Download datasets using KaggleHub for maximum flexibility.
