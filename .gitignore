@@ -178,3 +178,4 @@ raw/
 Images/
 Labels/
 fasterrcnn.pth
+artifacts/models/fasterrcnn.pth
